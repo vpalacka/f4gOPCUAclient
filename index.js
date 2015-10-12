@@ -4,3 +4,4 @@ var opcua = require("node-opcua"),
     Qlobber = require('qlobber').Qlobber;
 
 module.exports = require('./lib/f4gOPCUAclient');
+//Pokus 1
