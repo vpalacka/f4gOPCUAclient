@@ -1,0 +1,2 @@
+D:\MsDev\2015\f4gOPCUAclient\obj\Debug\f4gOPCUAclient.njsprojResolveAssemblyReference.cache
+D:\MsDev\2015\f4gOPCUAclient\bin\Microsoft.NodejsTools.WebRole.dll
