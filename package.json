@@ -1,0 +1,16 @@
+{
+  "name": "f4gOPCUAclient",
+  "version": "0.0.1",
+  "description": "OPC UA client for Flex4Grid",
+  "keywords": [],
+  "author": "V. Palacka <vladimir_palacka@saeautom.sk>, M.Nemcko <milos_nemcko@saeautom.sk>",
+  "repository": { "type": "git", "url": "git://github.com/V. Palacka/f4gOPCUAclient.git" },
+  "dependencies": {
+    "node-opcua": "0.0.49"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
