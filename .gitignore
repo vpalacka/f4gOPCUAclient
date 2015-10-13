@@ -3,6 +3,7 @@ specs/
 node_modules/
 tmp/
 obj/
+.ntvs_analysis.dat
 .coveralls.yml
 coverage
 *.swp
